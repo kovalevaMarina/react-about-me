@@ -1,7 +1,4 @@
-.photo-wrap {
-  width: 423px;
-}
-
+.photo-wrap,
 .photo-img {
-  width: 500px;
+  width: 423px;
 }
